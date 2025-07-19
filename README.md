@@ -28,9 +28,9 @@ python3 update-prices.py -f 2025-07-16 -t 2025-07-20 EUNL.DE
 The output looks like this:
 
 ```
-P 2025-07-16 EUNL      100,4850 EUR  ; src: Yahoo Finance API (yfinance)
-P 2025-07-17 EUNL      102,5550 EUR  ; src: Yahoo Finance API (yfinance)
-P 2025-07-18 EUNL      102,2100 EUR  ; src: Yahoo Finance API (yfinance)
+P 2025-07-16 EUNL      100,4850 EUR
+P 2025-07-17 EUNL      102,5550 EUR
+P 2025-07-18 EUNL      102,2100 EUR
 ```
 
 ## Examples
